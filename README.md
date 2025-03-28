@@ -38,10 +38,6 @@ Here’s what I wield in my coding arsenal:
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6iA/giphy.gif" alt="Coding Guy Typing" width="300"/>
-</div>
-
 ---
 
 ### 📊 My GitHub Journey

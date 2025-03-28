@@ -50,8 +50,7 @@ Here’s what I wield in my coding arsenal:
 ---
 
 ### ✨ Fun Fact
-I once debugged a program for 6 hours only to realize I’d missed a semicolon.
-
+I spent hours training my model, only to find out I had the labels and features swapped:3
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Guy Debugging" width="300"/>
 </div>

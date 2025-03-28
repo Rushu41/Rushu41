@@ -15,7 +15,7 @@
 ### 🌐 Let’s Connect
 <p align="center">
   <a href="linkedin.com/in/rushan-jamil-453a20330" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
-  <a href="[https://fb.com/rushan-jamil](https://www.facebook.com/rushan.jamil.338)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" /></a>
+  <a href="https://www.facebook.com/rushan.jamil.338" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" /></a>
   <a href="https://instagram.com/r_uwu_shan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" /></a>
 </p>
 

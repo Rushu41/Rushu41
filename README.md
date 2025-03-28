@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rushu41&label=Profile%20Views&color=ff2e63&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Learning-AI%20&%20Web%20Dev-blue?style=flat&logo=robot" alt="Learning ML & Web Dev" />
+  <img src="https://img.shields.io/badge/Learning-ML%20&%20Web%20Dev-blue?style=flat&logo=robot" alt="Learning ML & Web Dev" />
 </div>
 
 <div align="center">
@@ -62,6 +62,4 @@ I once debugged a program for 6 hours only to realize I’d missed a semicolon.
 
 ---
 
-<div align="center">
-  <strong>Thanks for stopping by! Let’s build something amazing together.</strong>
-</div>
+
